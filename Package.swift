@@ -592,7 +592,7 @@ let package = Package(
         "DefaultUI/CHANGELOG.md",
         "DefaultUI/README.md",
       ],
-      resources: [.process("Resources")],
+        resources: [.copy("Resources/close-with-transparency.png"), .copy("Resources/close-with-transparency@2x.png"), .copy("Resources/FIRInAppMessageDisplayStoryboard.storyboard"), .copy("Resources/FIRInAppMessageDisplayStoryboardTV.storyboard")],
       publicHeadersPath: "Public",
       cSettings: [
         .headerSearchPath("../../"),
