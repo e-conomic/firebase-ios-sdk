@@ -776,6 +776,34 @@
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FirebaseDatabaseSwift-Beta"
+               BuildableName = "FirebaseDatabaseSwift-Beta"
+               BlueprintName = "FirebaseDatabaseSwift-Beta"
+               ReferencedContainer = "container:">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FirebaseDatabaseSwift"
+               BuildableName = "FirebaseDatabaseSwift"
+               BlueprintName = "FirebaseDatabaseSwift"
+               ReferencedContainer = "container:">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -961,6 +989,16 @@
                BlueprintIdentifier = "FirebaseMLModelDownloaderUnit"
                BuildableName = "FirebaseMLModelDownloaderUnit"
                BlueprintName = "FirebaseMLModelDownloaderUnit"
+               ReferencedContainer = "container:">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FirebaseDatabaseSwiftTests"
+               BuildableName = "FirebaseDatabaseSwiftTests"
+               BlueprintName = "FirebaseDatabaseSwiftTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
